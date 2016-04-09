@@ -1,0 +1,1 @@
+/Users/lucywilliams/anaconda/Launcher.app
